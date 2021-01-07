@@ -1,5 +1,5 @@
 {
-    "name": "beganovich/snappdf",
+    "name": "jevgenijs/snappdf",
     "description": "Convert webpages or HTML into the PDF file using Chromium or Google Chrome.",
     "type": "library",
     "license": "MIT",
